@@ -1,0 +1,12 @@
+{
+  "name": "Trillo",
+  "version": "1.0.0",
+  "description": "Trillo Application",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch sass:css"
+  },
+  "author": "Ben",
+  "license": "ISC",
+  "devDependencies": {}
+}
